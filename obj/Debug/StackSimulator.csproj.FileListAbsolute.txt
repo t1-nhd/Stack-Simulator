@@ -1,0 +1,24 @@
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\bin\Debug\StackSimulator.exe.config
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\bin\Debug\StackSimulator.exe
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\bin\Debug\StackSimulator.pdb
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.csproj.AssemblyReference.cache
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.Properties.Resources.resources
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.csproj.GenerateResource.cache
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.csproj.CoreCompileInputs.cache
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.exe
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.pdb
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.fmStack.resources
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.fmDecConvert.resources
+C:\Users\xelam\OneDrive\Documents\Coding\Nam 3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.fmInfixToPostfix.resources
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\bin\Debug\StackSimulator.exe.config
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\bin\Debug\StackSimulator.exe
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\bin\Debug\StackSimulator.pdb
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.csproj.AssemblyReference.cache
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.fmDecConvert.resources
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.fmInfixToPostfix.resources
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.fmStack.resources
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.Properties.Resources.resources
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.csproj.GenerateResource.cache
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.csproj.CoreCompileInputs.cache
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.exe
+C:\Users\HDUYSTRIX\OneDrive\Documents\Coding\Nam3\HKV\TTCS\StackSimulator\obj\Debug\StackSimulator.pdb
